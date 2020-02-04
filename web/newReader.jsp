@@ -6,13 +6,8 @@
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
+
+
         <h1>Новый читатель!</h1>
         <a href="index">Главная страница</a>
         <p>${info}</p>
@@ -28,6 +23,3 @@
             <input type="submit" value="Добавить читателя">
         </form>
        
-        
-    </body>
-</html>

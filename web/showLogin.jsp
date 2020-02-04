@@ -1,13 +1,7 @@
-<%-- 
-    Document   : showLogin
-    Created on : Oct 4, 2019, 12:49:32 PM
-    Author     : Melnikov
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
+
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Вход в систему</title>
     </head>
@@ -22,5 +16,4 @@
             <input type="submit" value="Войти">
         </form>
         Нет учетной записи? <a href="newReader">Зарегистрироваться</a><br>
-    </body>
-</html>
+
